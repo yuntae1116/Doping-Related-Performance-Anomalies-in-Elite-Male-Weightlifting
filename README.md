@@ -24,12 +24,12 @@ python male_weightlift_script.py
 This will load `new_male_test.csv` and demonstrate the full workflow:  
 data preprocessing, K-Means clustering, regression modeling (Decision Tree, Random Forest, K-Neighbors), and evaluation.
 
-⚠️ Note: Results will **not exactly reproduce** the manuscript because the dataset here is synthetic.
+Note: Results will **not exactly reproduce** the manuscript because the dataset here is synthetic.
 
 ## Data Availability
 The file `new_male_test.csv` contains only **synthetic data** (100 randomly generated records) for demonstration and reproducibility.  
 
-The **real dataset** (26,293 competition records, including 1,358 linked to sanctioned athletes) is **available from the corresponding author upon reasonable request**, as stated in the manuscript.
+The **real dataset** is **available from the corresponding author upon reasonable request**, as stated in the manuscript.
 
 ## License
 These supplementary materials are provided for reproducibility and educational purposes only.
