@@ -4,7 +4,6 @@ This repository provides supplementary materials associated with the manuscript:
 **“Artificial Intelligence-Based Modeling for Detecting Doping-Related Performance Anomalies in Elite Male Weightlifting.”**
 
 ## Contents
-- `manuscript.docx` – Full draft of the manuscript.  
 - `new_male_test.csv` – Synthetic dataset (100 records) generated to mimic the structure of the real competition data.  
 - `male_weightlift_script.py` – Python script implementing the preprocessing, clustering, and regression analyses described in the paper.
 
