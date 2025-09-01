@@ -1,0 +1,2 @@
+# Doping-Related-Performance-Anomalies-in-Elite-Male-Weightlifting
+Supplementary materials for the manuscript “Artificial Intelligence-Based Modeling for Detecting Doping-Related Performance Anomalies in Elite Male Weightlifting.” Includes Python scripts, a synthetic dataset (100 records), and the full manuscript draft. The real dataset is available from the corresponding author upon reasonable request.
